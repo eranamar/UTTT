@@ -1,4 +1,4 @@
-#Ultimate "Ultimate Tic Tac Toe" Player
+# Ultimate "Ultimate Tic Tac Toe" Player
 
 This was the final project in AI course at HUJI (winter 2013/14).
 
